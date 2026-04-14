@@ -1,2 +1,1 @@
-linepy==3.0.8
-requests==2.31.0
+linepy @ git+https://github.com/linepy-dev/linepy.git

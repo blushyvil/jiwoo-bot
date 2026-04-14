@@ -1,0 +1,4 @@
+OWNER_MID = ""
+ADMIN_MIDS = []
+PROTECT = True
+AUTOJOIN = True
